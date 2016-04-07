@@ -1,0 +1,8 @@
+Extra Credit text
+ The features I added to enhance my Recipe Display Application were the DOM traversal in the title, 
+ in order to make sure the audience knows exactly what they are viewing. I also added a css that makes
+ the subtitles red and gold, similair to the colors of my wonderful university, Florida State University. 
+ The animation I included was almost exactly the same as the one in the assignment but I have modified it
+ to work faster, for the anxious people like me who cannot wait the extra second it takes to show information. 
+ 
+ 
